@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danilt2000
 - 👀 I’m interested in collaboration with C#
-- 🌱 I have a bachelor's degree in software engineering
+- 🌱 I have a Bachelor's degree in software engineering
 - 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me loker2356@outlook.com
 
