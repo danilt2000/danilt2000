@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @danilt2000
-- 👀 I’m interested in collaboration with C#
-- 🌱 I have a Bachelor's degree in software engineering
-- 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me loker2356@outlook.com
-- 🚘 Software engineer at Continental 
+<h1 align="center">👋 Hi, I'm Hepatica</h1>
+<h3 align="center">Backend Developer Specializing in C#</h3>
 
-<!---
-danilt2000/danilt2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineer-Continental-blue?style=flat&logo=continental&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C%23-brightgreen?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Degree-Software%20Engineering-orange?style=flat"/>
+  <img src="https://img.shields.io/badge/Location-Czech%20Republic-red?style=flat"/>
+</p>
+
+<hr/>
+
+<h3>👀 About Me:</h3>
+<ul>
+  <li>💼 I'm currently working as a backend developer at <a href="https://www.continental.com/en/" target="_blank"><strong>Continental</strong></a>.</li>
+  <li>🎓 I hold a Bachelor's degree in Software Engineering.</li>
+  <li>🔍 I’m interested in collaborating on innovative C# projects.</li>
+</ul>
+
+<hr/>
+
+<h3>💻 Tech Stack:</h3>
+<ul>
+  <li><strong>Primary Language:</strong> C#</li>
+  <li><strong>Frameworks & Tools:</strong> .NET, ASP, Entity Framework, SQL, MongoDB</li>
+  <li><strong>IDE:</strong> Visual Studio</li>
+</ul>
+
+<hr/>
+
+<h3>🌱 I’m currently learning:</h3>
+<ul>
+  <li>Advanced concepts in C# and .NET.</li>
+  <li>Cloud technologies related to backend development.</li>
+</ul>
+
+<hr/>
+
+<h3>💞️ Looking to Collaborate:</h3>
+<ul>
+  <li>I’m eager to collaborate on C# projects, especially those focusing on backend development and system architecture.</li>
+</ul>
+
+<hr/>
+
+<h3>📫 How to Reach Me:</h3>
+<ul>
+  <li>📧 Email: <a href="mailto:loker2356@outlook.com">loker2356@outlook.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/danil-tkachenko-a7ab4023b">Profile</a></li>
+</ul>
+
+<hr/>
