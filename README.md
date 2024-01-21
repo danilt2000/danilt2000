@@ -47,6 +47,7 @@
 <ul>
   <li>📧 Email: <a href="mailto:loker2356@outlook.com">loker2356@outlook.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/danil-tkachenko-a7ab4023b">Profile</a></li>
+  <li>Telegram: <a href="https://t.me/Hepatacor">Hepatacor</a></li>
 </ul>
 
 <hr/>
