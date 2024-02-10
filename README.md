@@ -28,21 +28,6 @@
 
 <hr/>
 
-<h3>🌱 I’m currently learning:</h3>
-<ul>
-  <li>Advanced concepts in C# and .NET.</li>
-  <li>Cloud technologies related to backend development.</li>
-</ul>
-
-<hr/>
-
-<h3>💞️ Looking to Collaborate:</h3>
-<ul>
-  <li>I’m eager to collaborate on C# projects, especially those focusing on backend development and system architecture.</li>
-</ul>
-
-<hr/>
-
 <h3>📫 How to Reach Me:</h3>
 <ul>
   <li>📧 Email: <a href="mailto:loker2356@outlook.com">loker2356@outlook.com</a></li>
