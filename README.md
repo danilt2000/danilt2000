@@ -35,4 +35,3 @@
   <li>Telegram: <a href="https://t.me/Hepatacor">Hepatacor</a></li>
 </ul>
 
-<hr/>
