@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Hepatica</h1>
+<h1 align="center">Hepatica</h1>
 <h3 align="center">Backend Developer Specializing in C#</h3>
 
 <p align="center">
