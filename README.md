@@ -1,5 +1,5 @@
 <h1 align="center">Hepatica</h1>
-<h3 align="center">Backend Developer Specializing in C#</h3>
+<h3 align="center">Backend Developer Specializing in C++/C#</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engineer-Continental-blue?style=flat&logo=continental&logoColor=white"/>
