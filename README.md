@@ -14,15 +14,15 @@
 <ul>
   <li>💼 I'm currently working as a backend developer at big tech company <a href="https://www.continental.com/en/" target="_blank"><strong>Continental</strong></a> in Czech Republic.</li>
   <li>🎓 I hold a Bachelor's degree in Software Engineering.</li>
-  <li>🔍 I’m interested in collaborating on innovative C# projects.</li>
+  <li>🔍 I’m interested in collaborating on innovative C++/C# projects.</li>
 </ul>
 
 <hr/>
 
 <h3>💻 Tech Stack:</h3>
 <ul>
-  <li><strong>Primary Language:</strong> C#</li>
-  <li><strong>Frameworks & Tools:</strong> .NET, ASP, Entity Framework, SQL, MongoDB</li>
+  <li><strong>Primary Languages:</strong> C++/C#</li>
+  <li><strong>Frameworks & Tools:</strong> .NET, ASP, CMake Entity Framework, SQL, MongoDB</li>
   <li><strong>IDE:</strong> Visual Studio</li>
 </ul>
 
