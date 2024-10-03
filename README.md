@@ -28,10 +28,16 @@
 
 <hr/>
 
+<h3>📊 LeetCode Statistics:</h3>
+<p align="center">
+ <img src='https://leetcard.jacoblin.cool/loker2000?ext=activity'></img> ttps://
+</p>
+
+<hr/>
+
 <h3>📫 How to Reach Me:</h3>
 <ul>
   <li>📧 Email: <a href="mailto:loker2356@outlook.com">loker2356@outlook.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/danil-tkachenko-a7ab4023b">Profile</a></li>
   <li>Telegram: <a href="https://t.me/Hepatacor">Hepatacor</a></li>
 </ul>
-
