@@ -1,4 +1,7 @@
-<h1 align="center">Hepatica</h1>
+<h1 align="center">
+  Hi <span style="font-size: 1.5em;">👋</span>, I'm <a href="https://danil.almavid.ru/" target="_blank" style="color: #007bff; text-decoration: none;">Hepatica</a>
+</h1>
+
 <h3 align="center">Backend Developer Specializing in C++/C#</h3>
 
 <p align="center">
