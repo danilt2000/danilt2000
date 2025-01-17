@@ -33,7 +33,7 @@
 
 <h3>📊 LeetCode Statistics:</h3>
 <p align="center">
- <img src='https://leetcard.jacoblin.cool/loker2000?ext=activity'></img> ttps://
+ <img src='https://leetcard.jacoblin.cool/loker2000?ext=activity'></img>
 </p>
 
 <hr/>
