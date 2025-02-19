@@ -2,7 +2,7 @@
   Hi <span style="font-size: 1.5em;">👋</span>, I'm <a href="https://danil.hepatico.ru/" target="_blank" style="color: #007bff; text-decoration: none;">Hepatica</a>
 </h1>
 
-<h3 align="center">Backend Developer Specializing in C++/C#</h3>
+<h3 align="center">Backend Developer Specializing in Python/C#</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engineer-Continental-blue?style=flat&logo=continental&logoColor=white"/>
