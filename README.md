@@ -24,7 +24,7 @@
 
 <h3>💻 Tech Stack:</h3>
 <ul>
-  <li><strong>Primary Languages:</strong> C++/C#</li>
+  <li><strong>Primary Languages:</strong> Python/C#</li>
   <li><strong>Frameworks & Tools:</strong> .NET, Python, ASP, CMake, Entity Framework, SQL, MongoDB</li>
   <li><strong>IDE:</strong> Visual Studio</li>
 </ul>
