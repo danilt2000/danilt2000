@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <span style="font-size: 1.5em;">👋</span>, I'm <a href="https://danil.hepatico.ru/" target="_blank" style="color: #007bff; text-decoration: none;">Hepatica</a>
+  Hi <span style="font-size: 1.5em;">👋</span>, I'm <a href="https://danilt.eu/" target="_blank" style="color: #007bff; text-decoration: none;">Hepatica</a>
 </h1>
 
 <h3 align="center">Backend Developer Specializing in Python/C#</h3>
