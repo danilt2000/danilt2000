@@ -15,7 +15,7 @@
 
 <h3>👀 About Me:</h3>
 <ul>
-  <li>💼 I'm currently working as a backend developer at big tech company <a href="https://www.continental.com/en/" target="_blank"><strong>Continental</strong></a> in Czech Republic.</li>
+  <li>💼 I'm currently working as a backend developer at..............</li>
   <li>🎓 I hold a Bachelor's degree in Software Engineering.</li>
   <li>🔍 I’m interested in collaborating on innovative Python/C# projects.</li>
 </ul>
